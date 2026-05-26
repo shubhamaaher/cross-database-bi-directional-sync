@@ -1,0 +1,11 @@
+{
+    "name": "kafka-sync-logic-app",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+      "kafkajs": "^2.2.4",
+      "redis": "^4.6.7",
+      "uuid": "^9.0.0",
+      "mongodb": "^6.0.0"
+    }
+}
